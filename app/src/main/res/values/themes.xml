@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RideCalm" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/rc_bg</item>
+        <item name="android:statusBarColor">@color/rc_bg</item>
+        <item name="android:navigationBarColor">@color/rc_bg</item>
+    </style>
+</resources>

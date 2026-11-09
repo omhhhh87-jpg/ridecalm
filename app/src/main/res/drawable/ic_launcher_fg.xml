@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- 잔잔한 물결 두 줄: 흔들림을 가라앉힌다는 뜻 -->
+    <path android:fillColor="#00000000" android:strokeColor="#5EE6C8" android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M30,50 C38,42 46,42 54,50 C62,58 70,58 78,50" />
+    <path android:fillColor="#00000000" android:strokeColor="#7AB8FF" android:strokeWidth="6"
+        android:strokeLineCap="round" android:strokeAlpha="0.7"
+        android:pathData="M30,64 C38,56 46,56 54,64 C62,72 70,72 78,64" />
+</vector>

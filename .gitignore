@@ -1,0 +1,16 @@
+# Gradle / Android Studio
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 서명 키는 저장소에 올리지 않음
+*.jks
+*.keystore
+keystore.properties
